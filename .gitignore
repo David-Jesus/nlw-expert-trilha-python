@@ -1,4 +1,5 @@
 # Arquivos gerados pelo python
 **/__pycache__
+.pytest_cache
 .nlw_python
 .DS_Store
